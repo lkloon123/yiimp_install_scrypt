@@ -1,12 +1,12 @@
 #!/bin/bash
 ################################################################################
-# Author:   crombiecrunch
+# Author:   
 # 
-# Web:      www.thecryptopool.com
+# Web:      blocksuckernation.com
 #
 # Program:
 #   Install yiimp on Ubuntu 16.04 running Nginx, MariaDB, and php7.x
-# BTC Donation: 1KuE2LMZMPXJ4gsVniWLuyyPsqqZs5Av4y
+# BTC Donation: 
 # 
 ################################################################################
 output() {
@@ -36,7 +36,7 @@ output ""
     read -e -p "Install LetsEncrypt SSL? IMPORTANT! You MUST have your domain name pointed to this server prior to running the script!! [Y/n]: " ssl_install
     
     clear 
-    output "If you found this helpful, please donate to BTC Donation: 1KuE2LMZMPXJ4gsVniWLuyyPsqqZs5Av4y"
+    output "If you found this helpful, please donate to BTC Donation: "
     output ""
     output "Updating system and installing required packages."
     output ""
@@ -685,7 +685,7 @@ define('"'"'EXCH_YOBIT_SECRET'"'"', '"'"''"'"');
 
     output "Database 'yiimpfrontend' and users 'panel' and 'stratum' created with password $password and $password2, will be saved for you"
     output ""
-    output "BTC Donation: 1KuE2LMZMPXJ4gsVniWLuyyPsqqZs5Av4y"
+    output "BTC Donation: "
     output ""
     
     output "Peforming the SQL import"
@@ -825,4 +825,4 @@ output "Please make sure to change your wallet addresses in the /var/web/serverc
 output ""
 output "Please make sure to add your public and private keys."
 output ""
-output "If you found this script helpful please consider donating some BTC Donation: 1KuE2LMZMPXJ4gsVniWLuyyPsqqZs5Av4y"
+output "If you found this script helpful please consider donating some BTC Donation: "
