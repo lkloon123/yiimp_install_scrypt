@@ -5,7 +5,7 @@ While I did add some server security to the script, it is every server owners re
 
 There will be several wallets already in yiimp. These have nothing to do with the installation script and are from the database import from the yiimp github. 
 
-If you need further assistance we have a small but growing discord channel at https://discord.gg/uQ5wdTC 
+If you need further assistance we have a small but growing discord channel at https://discord.gg/fEKqzSV
 
 *****Do not run the script as root*****
 
@@ -57,8 +57,8 @@ curl -Lo install.sh https://raw.githubusercontent.com/crombiecrunch/yiimp_instal
 bash install.sh
 
 
-If this helped you or you feel giving please donate BTC Donation: 16xpWzWP2ZaBQWQCDAaseMZBFwnwRUL4bD
+If this helped you or you feel giving please donate BTC Donation: 
 
-Feel free to join our Discord channel at https://discord.gg/zdBbAQ
+Feel free to join our Discord channel at https://discord.gg/fEKqzSV
 
 Crombie Crunch
