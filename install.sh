@@ -1,13 +1,5 @@
 #!/bin/bash
 ################################################################################
-# Author:   
-# 
-# Web:      blocksuckernation.com
-#
-# Program:
-#   Install yiimp on Ubuntu 16.04 running Nginx, MariaDB, and php7.x
-# BTC Donation: 
-# 
 ################################################################################
 output() {
     printf "\E[0;33;40m"
