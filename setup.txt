@@ -8,6 +8,7 @@ sudo apachectl stop
 
 cd yiimp_install_scrypt && bash install.sh
 
+apt-get install nano
 db user&pass : ~/.my.cnf
 
 ***UPDATE DB to avoid segwit error
