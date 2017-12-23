@@ -8,6 +8,8 @@ sudo apachectl stop
 
 cd yiimp_install_scrypt && bash install.sh
 
+db user&pass : ~/.my.cnf
+
 ***UPDATE DB to avoid segwit error
 ALTER TABLE `blocks` ADD `segwit` tinyint(1) UNSIGNED NOT NULL DEFAULT '0' AFTER `txhash`;
 ALTER TABLE `coins` ADD `usesegwit` tinyint(1) UNSIGNED NOT NULL DEFAULT '0' AFTER `usememorypool`;
